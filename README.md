@@ -15,4 +15,4 @@ All current events on the planner will display in Red.
 
 [Link to deployed application](https://camparooni.github.io/workday-scheduler/)
 
-![workday-scheduler](workday-scheduler.PNG)
+![workday-scheduler](./img/workday-scheduler.PNG)
